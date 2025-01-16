@@ -3,7 +3,7 @@
 
 ## About me
 Hi there 👋
-I am Nikhil. 22 y/o Full stack Developer. I build user-friendly websites and applications using MongoDB, Express, Nodejs, JavaScript & React Js framework. Working closely with user experience in mind, I transform designs into functional digital solutions for great user experiences.
+I am Nikhil. 22 y/o Full stack Developer. I build full stack websites and applications using Prisma, Postgres, Typescript & React and Next.js framework. Working closely with user experience in mind.
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nikyadav20032003) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/nikyadav20032003/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MrNikhillyadav) 
